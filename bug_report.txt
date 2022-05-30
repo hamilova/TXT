@@ -1,1 +1,4 @@
 
+Defines when the linked resource is read and shown:
+onLoad - the resource should be loaded and shown when the document loads
+onRequest - the resource is not read or shown before the link is clicked
